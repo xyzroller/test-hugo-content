@@ -14,4 +14,4 @@ Hello World!
 
 ## Introduction
 
-This is the template repository for [Hugo](https://gohugo.io/) content for the [rollyourown.xyz](https://rollyourown.xyz) [ryo-hugo-website](https://rollyourown.xyz/rollyourown/projects/single_server_projects/ryo-hugo-website/) project.
+This is the template repository for [Hugo](https://gohugo.io/) content for the [rollyourown](https://rollyourown.xyz) [ryo-hugo-website](https://rollyourown.xyz/rollyourown/projects/single_server_projects/ryo-hugo-website/) project.
